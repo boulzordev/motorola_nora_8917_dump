@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Jun 18 04:08:06 CDT 2019
+ro.bootimage.build.date.utc=1560848886
+ro.bootimage.build.fingerprint=motorola/nora_row/nora_8917:8.0.0/OPP27.91-176-11/7:user/release-keys
+

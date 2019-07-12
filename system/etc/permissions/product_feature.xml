@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.nora_8917" />
+    <feature name="com.motorola.software.product.nora_row" />
+    <feature name="com.motorola.hardware.tier.E" />
+    <feature name="com.motorola.hardware.wave.2018.1" />
+</permissions>

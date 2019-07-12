@@ -1,0 +1,25 @@
+BUILD REQUEST INFO:
+SW Version: nora_row-user 8.0.0 OPP27.91-176-11 7 release-keysM8917_31.39.05.88R
+MBM Version: BE.4F
+Modem Version: M8917_31.39.05.88R
+FSG Version: FSG-8937-13.35
+Build Fingerprint: motorola/nora_row/nora_8917:8.0.0/OPP27.91-176-11/7:user/release-keys
+CQATest App Version: 6.0.3
+
+VERSION INFO FOUND UNDER 'ABOUT PHONE' SCREEN:
+System Version: 27.291.7.nora_row.retail.en.US
+Model Number: moto e5
+Android Version: 8.0.0
+Baseband Version: M8917_31.39.05.88R
+Build Id: OPP27.91-176-11
+SW Display Build ID: OPP27.91-176-11
+Build Date: Tue Jun 18 04:08:06 CDT 2019
+
+OTHER MISC VERSION INFO:
+Subsidy Lock Config: slcf_rev_d_default_v1.0.nvm
+Regulatory Info (eLabel): regulatory_info_default.png
+Blur Version: Blur_Version.27.291.7.nora_row.retail.en.US
+Version when read from CPV: nora_row-user 8.0.0 OPP27.91-176-11 7 release-keys
+
+AB Update Enabled: False
+Full Treble Enabled: True

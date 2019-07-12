@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.nora_8917"
+       file="/system/framework/com.motorola.imager.nora_8917" />
+</permissions>
